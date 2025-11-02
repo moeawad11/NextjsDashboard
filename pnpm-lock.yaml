@@ -70,7 +70,7 @@ importers:
         specifier: ^9.39.0
         version: 9.39.0(jiti@1.21.7)
       eslint-config-next:
-        specifier: ^15.1.6
+        specifier: 15.1.6
         version: 15.1.6(eslint@9.39.0(jiti@1.21.7))(typescript@5.7.3)
       eslint-plugin-react:
         specifier: ^7.37.5
