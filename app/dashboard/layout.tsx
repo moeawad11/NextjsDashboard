@@ -1,5 +1,4 @@
 import SideNav from "@/app/ui/dashboard/sidenav";
-import exp from "constants";
 import type { Metadata } from "next/dist/types";
 
 export const metadata: Metadata = {
