@@ -1,4 +1,13 @@
 import SideNav from "@/app/ui/dashboard/sidenav";
+import exp from "constants";
+import type { Metadata } from "next/dist/types";
+
+export const metadata: Metadata = {
+  title: {
+    template: "%s | Acme Dashboard",
+    default: "Dashboard",
+  },
+};
 
 export default function Layout({ children }: { children: React.ReactNode }) {
   return (
